@@ -1,7 +1,7 @@
 <p align="center"><img alt="Anonymous" src="./assets/Anonymous.jpg" width ="1024" ></p>
 
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='50' display="inline"> <h3> Hey there! I'm Naititya - aka FaLLenGuY </h3>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nairitya - aka FaLLenGuY</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Nairitya -->
 
@@ -40,15 +40,14 @@
 
 ### 📚 &nbsp;Read My CTF Writeups here
 
-[TryHackMe](https://tryhackme.com/)-[Rooms](https://nairitya03.github.io/CTF-WriteUps/THM/) 
+- [GrimmCon 2020](https://nairitya03.github.io/CTF-WriteUps/GrimmCon%20CTF%202020/)
 
-  - [C0ldd_BOX](https://nairitya03.github.io/CTF-WriteUps/THM/C0ldd_BOX)
-  - [Chocolate Factory](https://nairitya03.github.io/CTF-WriteUps/THM/Chocolate%20Factory)
-  - [Cyborg](https://nairitya03.github.io/CTF-WriteUps/THM/Cyborg/)
+- [TryHackMe](https://tryhackme.com/)-[Rooms](https://nairitya03.github.io/CTF-WriteUps/THM/) 
+
+    - [C0ldd_BOX](https://nairitya03.github.io/CTF-WriteUps/THM/C0ldd_BOX)
+    - [Chocolate Factory](https://nairitya03.github.io/CTF-WriteUps/THM/Chocolate%20Factory)
+    - [Cyborg](https://nairitya03.github.io/CTF-WriteUps/THM/Cyborg/)
   
-[GrimmCon 2020](https://nairitya03.github.io/CTF-WriteUps/GrimmCon%20CTF%202020/)
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
