@@ -1,4 +1,4 @@
-<img alt="Anonymous" src="./assets/Anonymous.jpg" align="center" />
+<p align="center"><img alt="Anonymous" src="./assets/Anonymous.jpg" ></p>
 
 <p align="left"><img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40'/><h2>Hey there! I'm Naititya - aka FaLLenGuY</h2></P>
 
@@ -40,7 +40,10 @@
 ###    &nbsp;Read My CTF Writeups here
 
 <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" align="left" width='140'>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/FallenGuY.png" alt="TryHackMe" align="right" >
+
+
 [TryHackMe](https://tryhackme.com/)-[Rooms](https://nairitya03.github.io/CTF-WriteUps/THM/) 
 
   - [C0ldd_BOX](https://nairitya03.github.io/CTF-WriteUps/THM/C0ldd_BOX)
