@@ -1,6 +1,6 @@
 <p align="center"><img alt="Anonymous" src="./assets/Anonymous.jpg" ></p>
 
-<p align="left"><img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40'/><h2>Hey there! I'm Naititya - aka FaLLenGuY</h2></P>
+<p align="left"><img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='30'/><h3>Hey there! I'm Naititya - aka FaLLenGuY</h3></P>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Nairitya -->
 
@@ -44,11 +44,7 @@
   - [C0ldd_BOX](https://nairitya03.github.io/CTF-WriteUps/THM/C0ldd_BOX)
   - [Chocolate Factory](https://nairitya03.github.io/CTF-WriteUps/THM/Chocolate%20Factory)
   - [Cyborg](https://nairitya03.github.io/CTF-WriteUps/THM/Cyborg/)
-<img src ="https://www.trustedsec.com/wp-content/uploads/2020/04/GrimmCon.png" align="right" width='110'>
-
-
-<!--img src ="https://www.trustedsec.com/wp-content/uploads/2020/04/GrimmCon.png" align="right" width='110'-->
-
+  
 [GrimmCon 2020](https://nairitya03.github.io/CTF-WriteUps/GrimmCon%20CTF%202020/)
 
 
