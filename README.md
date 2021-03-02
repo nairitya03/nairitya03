@@ -58,7 +58,7 @@
 
 <p align="center">
 <a href="https://github.com/nairitya03">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=nairitya03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=nairitya03&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=nairitya03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=nairitya03&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
