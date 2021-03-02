@@ -37,11 +37,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-## 📚 &nbsp;Read My CTF Writeups here
+## 📚 &nbsp;Read My CTF Writeups [here](https://nairitya03.github.io/CTF-WriteUps/)
 
 - [GrimmCon 2020](https://nairitya03.github.io/CTF-WriteUps/GrimmCon%20CTF%202020/)
 
-- [TryHackMe](https://tryhackme.com/)-[Rooms](https://nairitya03.github.io/CTF-WriteUps/THM/) 
+- [TryHackMe](https://tryhackme.com/) [Rooms](https://nairitya03.github.io/CTF-WriteUps/THM/) 
 
     - [C0ldd_BOX](https://nairitya03.github.io/CTF-WriteUps/THM/C0ldd_BOX)
     - [Chocolate Factory](https://nairitya03.github.io/CTF-WriteUps/THM/Chocolate%20Factory)
