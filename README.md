@@ -1,4 +1,4 @@
-<p align="center"><img alt="Anonymous" src="./assets/Anonymous.jpg" width ="500" ></p>
+<p align="center"><img alt="Anonymous" src="./assets/Anonymous.jpg" width ="900" ></p>
 
 <h3> Hey there! I'm Naititya - aka FaLLenGuY </h3>
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='50'>
