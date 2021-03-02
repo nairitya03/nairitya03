@@ -9,6 +9,8 @@
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
+- :heart: &nbsp;I love to play Capture the Flags Challenges and attend Hacking events
+
 - 🔭 I’m currently working on **Emotion Detection and Recognition**
 
 - 🌱 I’m currently learning **Networking and Pentesting.**
