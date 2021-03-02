@@ -9,21 +9,21 @@
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
-- :heart: &nbsp;I love to play Capture the Flags Challenges and attend Hacking events
+- :heart: &nbsp;I love to play Capture the Flags Challenges and attend Hacking events.
 
-- 🔭 I’m currently working on **Emotion Detection and Recognition**
+- 🔭 I’m currently working on **Emotion Detection and Recognition** With Computer Vision. 
 
-- 🌱 I’m currently learning **Networking and Pentesting.**
+- 🌱 I’m currently learning **Networking and Pentesting**.
 
-- 🧑🏻‍💻 All of my projects are available at [https://github.com/nairitya03/Projects](https://github.com/nairitya03/Projects)
+- 🧑🏻‍💻 All of my projects are available at [https://github.com/nairitya03/Projects](https://github.com/nairitya03/Projects).
 
-- 💬 Ask me about **Python, Computer Vision, Cybersecurity and Human Behaviour**
+- 💬 Ask me about **Python, Computer Vision, Cybersecurity and Human Behaviour**.
 
-- 📫 How to reach me **talenairitya@gmail.com**
+- 📫 How to reach me **talenairitya@gmail.com**.
 
-- 🔗 Visit My Personal Portfolio Website here [Nairitya Tale](https://nairitya03.github.io/)
+- 🔗 Visit My Personal Portfolio Website here [Nairitya Tale](https://nairitya03.github.io/).
 
-- ⚡ Fun fact **Security is a Myth!!**
+- ⚡ Fun fact **Security is a Myth!!**.
 
 <!--img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/-->
 
