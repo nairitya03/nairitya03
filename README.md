@@ -38,7 +38,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-## 📚 &nbsp;Read My CTF Writeups [here](https://nairitya03.github.io/CTF-WriteUps/)
+## 📚 &nbsp;Read My [CTF Writeups](https://nairitya03.github.io/CTF-WriteUps/) here 
 
 - [GrimmCon 2020](https://nairitya03.github.io/CTF-WriteUps/GrimmCon%20CTF%202020/)
 
@@ -51,7 +51,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-49d0a7?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-128249?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
