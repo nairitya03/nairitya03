@@ -49,7 +49,8 @@
     - [Cyborg](https://nairitya03.github.io/CTF-WriteUps/THM/Cyborg/)
   
 ## 🤝🏻 &nbsp;Connect with Me
-
+<a href="https://github.com/nairitya03" target="_blank"><i class="fa fa-github w3-hover-opacity w3-xlarge"></i></a>
+<a href="https://www.linkedin.com/in/nairityatale" target="_blank"><i class="fa fa-linkedin w3-hover-opacity w3-xlarge"></i></a>
 <p align="center">
 <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
