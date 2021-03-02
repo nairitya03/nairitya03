@@ -1,13 +1,10 @@
 <p align="center"><img alt="Anonymous" src="./assets/Anonymous.jpg" width ="1024" ></p>
 
-
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nairitya - aka FaLLenGuY</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Nairitya -->
 
-
-
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
@@ -27,7 +24,7 @@
 
 <!--img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/-->
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -38,7 +35,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### 📚 &nbsp;Read My CTF Writeups here
+## 📚 &nbsp;Read My CTF Writeups here
 
 - [GrimmCon 2020](https://nairitya03.github.io/CTF-WriteUps/GrimmCon%20CTF%202020/)
 
@@ -48,7 +45,7 @@
     - [Chocolate Factory](https://nairitya03.github.io/CTF-WriteUps/THM/Chocolate%20Factory)
     - [Cyborg](https://nairitya03.github.io/CTF-WriteUps/THM/Cyborg/)
   
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
