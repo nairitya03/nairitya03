@@ -1,6 +1,6 @@
 <p align="center"><img alt="Anonymous" src="./assets/Anonymous.jpg" width ="1024" ></p>
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nairitya - aka FaLLenGuY</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='60' align="left"/><h1>Hey there! I'm Nairitya - aka FaLLenGuY</h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Nairitya -->
 
