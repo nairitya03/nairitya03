@@ -2,7 +2,6 @@
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='60' align="left"/><h1>Hey there! I'm Nairitya - aka FaLLenGuY</h1>
 
------------------------------------------
 
 <!-- ## 👋 &nbsp;Hey there! I'm Nairitya -->
 
