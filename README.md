@@ -1,7 +1,7 @@
 <p align="center"><img alt="Anonymous" src="./assets/Anonymous.jpg" width ="1024" ></p>
 
-<h3> Hey there! I'm Naititya - aka FaLLenGuY </h3>
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='50'>
+
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='50' display="inline"> <h3> Hey there! I'm Naititya - aka FaLLenGuY </h3>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Nairitya -->
 
