@@ -45,7 +45,7 @@
   - [Chocolate Factory](https://nairitya03.github.io/CTF-WriteUps/THM/Chocolate%20Factory)
   - [Cyborg](https://nairitya03.github.io/CTF-WriteUps/THM/Cyborg/)
 
-<img src ="https://www.trustedsec.com/wp-content/uploads/2020/04/GrimmCon.png" align="right"width='110'>
+<img src ="https://www.trustedsec.com/wp-content/uploads/2020/04/GrimmCon.png" align="right" width='110'>
 
 [GrimmCon 2020](https://nairitya03.github.io/CTF-WriteUps/GrimmCon%20CTF%202020/)
 
