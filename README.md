@@ -37,9 +37,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-###    &nbsp;Read My CTF Writeups here
-
-<img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" align="left" width='140'>&bsp;
+### 📚 &nbsp;Read My CTF Writeups here
 
 [TryHackMe](https://tryhackme.com/)-[Rooms](https://nairitya03.github.io/CTF-WriteUps/THM/) 
 
