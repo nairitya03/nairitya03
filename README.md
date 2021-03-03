@@ -29,14 +29,16 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=plastic&logo=amazon-aws)&nbsp;
+![Docker](https://img.shields.io/badge/-Ddocker-05122A?style=plastic&logo=docker)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=plastic&logo=markdown)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=plastic&logo=adobe-photoshop)&nbsp;
 
 ## 📚 &nbsp;Read My [CTF Writeups](https://nairitya03.github.io/CTF-WriteUps/) here 
 
