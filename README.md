@@ -53,7 +53,7 @@
   
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-blue?style=plastic&logo=Linkedin&logoColor=white"/></a> 
 <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-11a69c?style=plastic&logo=Google-Chrome&logoColor=green"/></a> 
