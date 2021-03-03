@@ -54,10 +54,10 @@
   
 ## 🤝🏻 &nbsp;Connect with Me
 
-<ul><li>
+<ul>
 <p align="left">
-<a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-128249?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<li><a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-128249?style=flat&logo=Google-Chrome&logoColor=white"/></a></li>
+<li><a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </li></ul>
 </p>
 
