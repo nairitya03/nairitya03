@@ -56,9 +56,9 @@
 <p align="left">
 <ul>
 <li><a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a></li>
-<li><a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-128249?style=flat&logo=Google-Chrome&logoColor=white"/></a></li>
-<li><a href="mailto:talenairitya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0077B5?style=flat&logo=gmail&logoColor=white"/></a></li>
-<li><a href="https://www.instagram.com/_the_fall.en_/"><img src="https://img.shields.io/badge/-_the_fall.en_-0077B5?style=flat&logo=instagram&logoColor=white"/></a></li>
+<li><a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-128249?style=flat&logo=Google-Chrome&logoColor=black"/></a></li>
+<li><a href="mailto:talenairitya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0077B5?style=flat&logo=gmail&logoColor=red"/></a></li>
+<li><a href="https://www.instagram.com/_the_fall.en_/"><img src="https://img.shields.io/badge/-_the_fall.en_-0077B5?style=flat&logo=instagram&logoColor=purple"/></a></li>
 </ul>
 </p>
 
