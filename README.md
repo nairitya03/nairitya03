@@ -29,18 +29,17 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Kali](https://img.shields.io/badge/-Kali-557C94?style=plastic&logo=kali-linux)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=plastic&logo=amazon-aws)&nbsp;
-![Docker](https://img.shields.io/badge/-Ddocker-2496ED?style=plastic&logo=docker)&nbsp;
-![MLH](https://img.shields.io/badge/-Markdown-265A8F?style=plastic&logo=major-league-hacking)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=plastic&logo=markdown)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=plastic&logo=adobe-photoshop)&nbsp;
+![Kali](https://img.shields.io/badge/-Kali-05122A?style=plastic&logo=kali-linux)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=plastic&logo=amazon-aws)&nbsp;
+![Docker](https://img.shields.io/badge/-Ddocker-05122A?style=plastic&logo=docker)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=plastic&logo=markdown)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=plastic&logo=adobe-photoshop)&nbsp;
 
 ## 📚 &nbsp;Read My [CTF Writeups](https://nairitya03.github.io/CTF-WriteUps/) here 
 
@@ -54,13 +53,9 @@
   
 ## 🤝🏻 &nbsp;Connect with Me
 
-<ul>
 <p align="left">
-<li><a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-0077B5?style=flat&logo=Linkedin"/></a></li>
-<li><a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-128249?style=flat&logo=Google-Chrome"/></a></li>
-<li><a href="mailto:talenairitya@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat&logo=gmail"/></a></li>
-</ul>
-</p>
+<a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-128249?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -70,4 +65,3 @@
     <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nairitya03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
- 
