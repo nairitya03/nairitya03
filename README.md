@@ -53,7 +53,7 @@
   
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center"><a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-blue?style=plastic&logo=Linkedin&logoColor=white"/></a>  <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-blue?style=plastic&logo=Google-Chrome&logoColor=green"/></a>  <a href="mailto:talenairitya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=plastic&logo=gmail&logoColor=red"/></a>  <a href="https://www.instagram.com/_the_fall.en_/"><img src="https://img.shields.io/badge/-_the_fall.en_-white?style=plastic&logo=instagram&logoColor=purple"/></a> </p>
+<p align="center"><a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-white?style=plastic&logo=Linkedin&logoColor=blue"/></a>  <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-white?style=plastic&logo=Google-Chrome&logoColor=blue"/></a>  <a href="mailto:talenairitya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=plastic&logo=gmail&logoColor=red"/></a>  <a href="https://www.instagram.com/_the_fall.en_/"><img src="https://img.shields.io/badge/-_the_fall.en_-white?style=plastic&logo=instagram&logoColor=purple"/></a> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
