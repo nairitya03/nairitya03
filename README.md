@@ -29,7 +29,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Kali](https://img.shields.io/badge/-Kali-05122A?style=plastic&logo=kali-linux)&nbsp;
+![Kali](https://img.shields.io/badge/-Kali-05122A?style=plastic&logo=kali-linux&logoWidth=40)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
