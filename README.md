@@ -46,7 +46,8 @@
 - [GrimmCon 2020](https://nairitya03.github.io/CTF-WriteUps/GrimmCon%20CTF%202020/)
 
 - [TryHackMe](https://tryhackme.com/) [Rooms](https://nairitya03.github.io/CTF-WriteUps/THM/) 
-
+   
+    - [Pickle Rick](https://nairitya03.github.io/CTF-WriteUps/THM/Pickle%20Rick)
     - [C0ldd_BOX](https://nairitya03.github.io/CTF-WriteUps/THM/C0ldd_BOX)
     - [Chocolate Factory](https://nairitya03.github.io/CTF-WriteUps/THM/Chocolate%20Factory)
     - [Cyborg](https://nairitya03.github.io/CTF-WriteUps/THM/Cyborg/)
