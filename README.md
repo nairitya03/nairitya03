@@ -51,7 +51,7 @@
     - [Chocolate Factory](https://nairitya03.github.io/CTF-WriteUps/THM/Chocolate%20Factory)
     - [Cyborg](https://nairitya03.github.io/CTF-WriteUps/THM/Cyborg/)
 
--[Hack The Box](https://www.hackthebox.eu/) [Rooms](https://nairitya03.github.io/CTF-WriteUps/HTB/) 
+- [Hack The Box](https://www.hackthebox.eu/) [Rooms](https://nairitya03.github.io/CTF-WriteUps/HTB/) 
     - [Archetype](https://nairitya03.github.io/CTF-WriteUps/HTB/Archetype/)
     
 ## 🤝🏻 &nbsp;Connect with Me
