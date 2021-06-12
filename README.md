@@ -41,7 +41,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=plastic&logo=markdown)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=plastic&logo=adobe-photoshop)&nbsp;
 
-## 📚 &nbsp;Read My [CTF Writeups](https://nairitya03.github.io/CTF-WriteUps/) here 
+## 📚 &nbsp;Read My CTF Writeups [here](https://nairitya03.github.io/CTF-WriteUps/) 
 
 - [NahamCon 2021](https://nairitya03.github.io/CTF-WriteUps/NahamCon%20CTF%202021/)
 
@@ -64,11 +64,4 @@
 
 <p align="center"><a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-white?style=plastic&logo=Linkedin&logoColor=blue"/></a>  <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-white?style=plastic&logo=Google-Chrome&logoColor=0c5026"/></a>  <a href="mailto:talenairitya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=plastic&logo=gmail&logoColor=red"/></a>  <a href="https://www.instagram.com/_the_fall.en_/"><img src="https://img.shields.io/badge/-_the_fall.en_-white?style=plastic&logo=instagram&logoColor=purple"/></a> </p>
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/nairitya03">
-    <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=nairitya03&layout=compact&langs_count=8&theme=algolia"/>
-    <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nairitya03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
