@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **talenairitya@gmail.com**.
 
-- 🔗 Visit My Personal Portfolio Website [here] (https://nairitya03.github.io/).
+- 🔗 Visit My Personal Portfolio Website [here](https://nairitya03.github.io/).
 
 - ⚡ Fun fact **Security is a Myth!!**.
 
