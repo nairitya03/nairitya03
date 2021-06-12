@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Networking and Pentesting**.
 
-- 🧑🏻‍💻 All of my projects are available at [https://github.com/nairitya03/Projects](https://github.com/nairitya03/Projects).
+- 🧑🏻‍💻 All of my projects are available at [Github Projects](https://github.com/nairitya03/Projects).
 
 - 💬 Ask me about **Python, Computer Vision, Cybersecurity and Human Behaviour**.
 
 - 📫 How to reach me **talenairitya@gmail.com**.
 
-- 🔗 Visit My Personal Portfolio Website here [Nairitya Tale](https://nairitya03.github.io/).
+- 🔗 Visit My Personal Portfolio Website [here] (https://nairitya03.github.io/).
 
 - ⚡ Fun fact **Security is a Myth!!**.
 
