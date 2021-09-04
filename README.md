@@ -17,7 +17,7 @@
 
 - 🧑🏻‍💻 All of my projects are available at [Github Projects](https://github.com/nairitya03/Projects).
 
-- 💬 Ask me about **Python, Computer Vision, Cybersecurity and Human Behaviour**.
+- 💬 Ask me about **Python, Computer Vision/Image Processing, Cybersecurity and Human Behaviour**.
 
 - 📫 How to reach me **talenairitya@gmail.com**.
 
