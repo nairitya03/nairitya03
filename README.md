@@ -23,7 +23,7 @@
 
 - 🔗 Visit My Personal Portfolio Website [here](https://nairitya03.github.io/).
 
-- ⚡ Fun fact **Security is a Myth!!**.
+- ⚡ Fun fact **Security is just a Myth!!**.
 
 <!--img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/-->
 
