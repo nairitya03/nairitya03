@@ -9,19 +9,15 @@
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
+- 💬 I love to talk about **Digital Security, Emmerging Technology and Human Behaviour**.
+
 - :heart: &nbsp;I love to play Capture the Flags Challenges and attend Hacking events.
-
-- 🔭 I’m currently working on **Emotion Detection and Recognition** With Computer Vision. 
-
-- 🌱 I’m currently learning **Networking and Pentesting**.
+  
+- 🌱 I’m a recent Cybersecurity Graduate with keen interest in **Infosec and Pentesting**.
 
 - 🧑🏻‍💻 All of my projects are available at [Github Projects](https://github.com/nairitya03/Projects).
 
-- 💬 Ask me about **Python, Computer Vision/Image Processing, Cybersecurity and Human Behaviour**.
-
-- 📫 How to reach me **talenairitya@gmail.com**.
-
-- 🔗 Visit My Personal Portfolio Website [here](https://nairitya03.github.io/).
+- 📫 How to reach me **nairityatale@gmail.com**.
 
 - ⚡ Fun fact **Security is just a Myth!!**.
 
@@ -33,13 +29,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=plastic&logo=amazon-aws)&nbsp;
 ![Docker](https://img.shields.io/badge/-Ddocker-05122A?style=plastic&logo=docker)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=plastic&logo=markdown)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=plastic&logo=adobe-photoshop)&nbsp;
 
 ## 📚 &nbsp;Read My CTF Writeups [here](https://nairitya03.github.io/CTF-WriteUps/) 
 
@@ -62,6 +53,4 @@
     
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center"><a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-white?style=plastic&logo=Linkedin&logoColor=blue"/></a>  <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-white?style=plastic&logo=Google-Chrome&logoColor=0c5026"/></a>  <a href="mailto:talenairitya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=plastic&logo=gmail&logoColor=red"/></a>  <a href="https://www.instagram.com/_the_fall.en_/"><img src="https://img.shields.io/badge/-_the_fall.en_-white?style=plastic&logo=instagram&logoColor=purple"/></a> </p>
-
-
+<p align="center"><a href="https://linkedin.com/in/nairityatale"><img src="https://img.shields.io/badge/-Nairitya%20Tale-white?style=plastic&logo=Linkedin&logoColor=blue"/></a>  <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-white?style=plastic&logo=Google-Chrome&logoColor=0c5026"/></a>  <a href="mailto:nairityatale@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=plastic&logo=gmail&logoColor=red"/></a>
