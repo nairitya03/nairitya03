@@ -5,8 +5,6 @@
 
 ## 👨🏻‍💻 About Me
 
-<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
-
 - 🧠 I’m a recent Cybersecurity MSc graduate from Cardiff University, passionate about InfoSec and ethical hacking.
 - 💬 I enjoy exploring digital security, emerging tech, and how people interact with it all.
 - 🎯 Capture the Flag challenges and hacking events are my thing — they keep me sharp.
